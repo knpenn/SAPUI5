@@ -1,0 +1,110 @@
+{
+  "d" : {
+    "results" : [
+      {
+        "__metadata" : {
+          "id" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000002')",
+          "uri" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000002')",
+          "type" : "Z_EPM_SD_SRV.SalesDoc"
+        },
+        "Vbeln" : "0000000002",
+        "Vbtyp" : "C",
+        "Vkorg" : "0001",
+        "Cmgst" : "",
+        "Audat" : "\/Date(1455580800000)\/",
+        "Ernam" : "KPLEE"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000003')",
+          "uri" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000003')",
+          "type" : "Z_EPM_SD_SRV.SalesDoc"
+        },
+        "Vbeln" : "0000000003",
+        "Vbtyp" : "C",
+        "Vkorg" : "0001",
+        "Cmgst" : "",
+        "Audat" : "\/Date(1455667200000)\/",
+        "Ernam" : "KPLEE"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000004')",
+          "uri" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000004')",
+          "type" : "Z_EPM_SD_SRV.SalesDoc"
+        },
+        "Vbeln" : "0000000004",
+        "Vbtyp" : "C",
+        "Vkorg" : "0001",
+        "Cmgst" : "",
+        "Audat" : "\/Date(1455667200000)\/",
+        "Ernam" : "KPLEE"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000005')",
+          "uri" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000005')",
+          "type" : "Z_EPM_SD_SRV.SalesDoc"
+        },
+        "Vbeln" : "0000000005",
+        "Vbtyp" : "C",
+        "Vkorg" : "0001",
+        "Cmgst" : "",
+        "Audat" : "\/Date(1455667200000)\/",
+        "Ernam" : "KPLEE"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000010')",
+          "uri" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000010')",
+          "type" : "Z_EPM_SD_SRV.SalesDoc"
+        },
+        "Vbeln" : "0000000010",
+        "Vbtyp" : "C",
+        "Vkorg" : "0001",
+        "Cmgst" : "",
+        "Audat" : "\/Date(1455667200000)\/",
+        "Ernam" : "KPLEE"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000011')",
+          "uri" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000011')",
+          "type" : "Z_EPM_SD_SRV.SalesDoc"
+        },
+        "Vbeln" : "0000000011",
+        "Vbtyp" : "C",
+        "Vkorg" : "0001",
+        "Cmgst" : "",
+        "Audat" : "\/Date(1455667200000)\/",
+        "Ernam" : "KPLEE"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000012')",
+          "uri" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000012')",
+          "type" : "Z_EPM_SD_SRV.SalesDoc"
+        },
+        "Vbeln" : "0000000012",
+        "Vbtyp" : "C",
+        "Vkorg" : "0001",
+        "Cmgst" : "",
+        "Audat" : "\/Date(1455667200000)\/",
+        "Ernam" : "KPLEE"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000013')",
+          "uri" : "http://MYPGNW74.pgides.org:8000/sap/opu/odata/SAP/Z_EPM_SD_SRV/SalesDocCollection('0000000013')",
+          "type" : "Z_EPM_SD_SRV.SalesDoc"
+        },
+        "Vbeln" : "0000000013",
+        "Vbtyp" : "C",
+        "Vkorg" : "0001",
+        "Cmgst" : "",
+        "Audat" : "\/Date(1455753600000)\/",
+        "Ernam" : "KPLEE"
+      }
+    ]
+  }
+}

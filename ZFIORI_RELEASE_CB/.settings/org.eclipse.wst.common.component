@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ZFIORI_RELEASE_CB">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="ZFIORI_RELEASE_CB"/>
+        <property name="java-output-path" value="/ZFIORI_RELEASE_CB/build/classes"/>
+    </wb-module>
+</project-modules>
